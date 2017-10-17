@@ -7,8 +7,8 @@ function myMap() {
 					var markers = [
 						{ 
 						name: "Poundland: cheap cutlery, crockery and much more", 
-						lat: 47.0734517, 
-						lng: 15.0183986,
+						lat: 47.336940, 
+						lng: 19.6776573,
 						},
 						{
 						name: "Metro Bank: Bank account without appointment",
