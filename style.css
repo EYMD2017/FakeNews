@@ -10,4 +10,10 @@ h1 {
 
 #bt {
   background-color: #003399;
+  color: #FFCC00;
+}
+
+#bt:hover {
+  background: rgba(209, 60, 60, 1);
+  color: white;
 }
