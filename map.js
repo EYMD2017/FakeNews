@@ -1,5 +1,5 @@
 function myMap() {
-					var myCenter = new google.maps.LatLng(47.1430079,10.5392215);
+					var myCenter = new google.maps.LatLng(47.336940,19.6776573);
 					var mapCanvas = document.getElementById("map");
 					var mapOptions = {center: myCenter, zoom: 13};
 					var map = new google.maps.Map(mapCanvas, mapOptions);
