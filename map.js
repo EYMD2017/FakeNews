@@ -1,5 +1,5 @@
 function myMap() {
-					var myCenter = new google.maps.LatLng(52.2032007,0.116724,15);
+					var myCenter = new google.maps.LatLng(47.1430079,10.5392215);
 					var mapCanvas = document.getElementById("map");
 					var mapOptions = {center: myCenter, zoom: 13};
 					var map = new google.maps.Map(mapCanvas, mapOptions);
@@ -7,8 +7,8 @@ function myMap() {
 					var markers = [
 						{ 
 						name: "Poundland: cheap cutlery, crockery and much more", 
-						lat: 52.2068152, 
-						lng: 0.1285616,
+						lat: 47.0734517, 
+						lng: 15.0183986,
 						},
 						{
 						name: "Metro Bank: Bank account without appointment",
