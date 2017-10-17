@@ -25,47 +25,7 @@ function myMap() {
 						lat: 52.2068046, 
 						lng: 0.1282579,
 						},
-						{
-						name: "Ryder and Amies: Gowns and Cambridge merchandise",
-						lat: 52.2050283,
-						lng: 0.1178755, 
-						}, 
-						{
-						name: "Giant: New bikes",
-						lat: 52.1895926, 
-						lng: 0.1333165,
-						},
-						/*adding restaurants here*/ 
-						{
-						name: "Bread and Meat: Sandwiches",
-						lat: 52.2040291, 
-						lng: 0.118319,
-						},
-						{
-						name: "CAU: Steaks",
-						lat: 52.203986,
-						lng: 0.118669, 
-						},
-						{
-						name: "Rainbow Café: Vegetarian food",
-						lat: 52.2043282,
-						lng: 0.1177746,
-						},
-						{
-						name: "The Riverbar: Rooftop cocktail bar with excellent views over Cambridge",
-						lat: 52.2105189,
-						lng: 0.1176397, 
-						},
-						{
-						name: "Charlie's Coffee Company: Pizza",
-						lat: 52.2054926, 
-						lng: 0.133485,
-						},
-						{
-						name: "Aromi: Pizza",
-						lat: 52.2041679, 
-						lng: 0.1187846,
-						},
+						
 					];
 							 marker_objects = [];
 								/*here starts the loop for setting the markers*/  
