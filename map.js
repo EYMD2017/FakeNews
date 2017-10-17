@@ -6,24 +6,24 @@ function myMap() {
 					/* This is the array for the information*/
 					var markers = [
 						{ 
-						name: "Poundland: cheap cutlery, crockery and much more", 
+						name: "Migrants abusing a church: Hungary", 
 						lat: 47.336940, 
 						lng: 19.6776573,
 						},
 						{
-						name: "Metro Bank: Bank account without appointment",
+						name: "Migrants abusing a church: UK",
 						lat: 52.20494, 
 						lng: 0.1202897,
 						},
 						{
-						name: "Sainsbury: Food shopping in the centre of Cambridge",
-						lat: 52.2025619, 
-						lng: 10.122336,
+						name: "Migrants abusing a church: USA",
+						lat: 52.645403, 
+						lng: -56.586718,
 						},
 						{
-						name: "Wilko: cheap Hardware store",
-						lat: 52.2068046, 
-						lng: 0.1282579,
+						name: "Migrants abusing a church: Sweden",
+						lat: 59.337625, 
+						lng: 18.085730,
 						},
 						
 					];
