@@ -25,6 +25,7 @@ function myMap() {
 						lat: 41.878114, 
 						lng: -87.629798,
 						},
+						{
 						name: "Antwerp, BE", 
 						lat: 51.219448, 
 						lng: 4.402464,
