@@ -25,6 +25,30 @@ function myMap() {
 						lat: 59.337625, 
 						lng: 18.085730,
 						},
+						name: "Migrants abusing a church: Hungary", 
+						lat: 47.336940, 
+						lng: 19.6776573,
+						},
+						{
+						name: "Migrants abusing a church: Switzerland",
+						lat: 46.658684, 
+						lng: 7.893413,
+						},
+						{
+						name: "Migrants abusing a church: Canada",
+						lat: 45.401400, 
+						lng: -75.704159,
+						},
+						{
+						name: "Migrants abusing a church: France",
+						lat: 48.853868, 
+						lng: 2.349461,
+						},
+						{
+						name: "Migrants abusing a church: Belgium",
+						lat: 48.853868, 
+						lng: 2.349461,
+						},
 						
 					];
 							 marker_objects = [];
