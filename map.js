@@ -20,11 +20,13 @@ function myMap() {
 						lat: 52.645403, 
 						lng: -56.586718,
 						},
+						
 						{
 						name: "Migrants abusing a church: Sweden",
 						lat: 59.337625, 
 						lng: 18.085730,
 						},
+{
 						name: "Migrants abusing a church: Hungary", 
 						lat: 47.336940, 
 						lng: 19.6776573,
