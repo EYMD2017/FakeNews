@@ -6,12 +6,12 @@ function myMap() {
 					/* This is the array for the information*/
 					var markers = [
 						{ 
-						name: "Boston, MC" 
+						name: "Boston, MC", 
 						lat: 42.360082, 
 						lng: -71.05888,
 						},
 						{
-						name: "New York, NY"
+						name: "New York, NY",
 						lat: 40.712775, 
 						lng: -74.005973,
 						},
